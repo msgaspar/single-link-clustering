@@ -18,4 +18,4 @@ Your task in this problem is to run the clustering algorithm on this data set, w
 
 ## References
 
-> The text and the problem presented here were based in the book [Algorithms Illuminated](http://algorithmsilluminated.org) by Tim Roughgarden.
+The text and the problem presented here were based in the book [Algorithms Illuminated](http://algorithmsilluminated.org) by Tim Roughgarden.
