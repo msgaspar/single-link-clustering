@@ -16,6 +16,6 @@ The input file describes a distance function equivalent to a complete graph with
 
 Your task in this problem is to run the clustering algorithm on this data set, where the target number _k_ of clusters is set to 4. What is the maximum spacing of a 4-clustering?
 
-### References
+## References
 
 > The text and the problem presented here were based in the book [Algorithms Illuminated](http://algorithmsilluminated.org) by Tim Roughgarden.
